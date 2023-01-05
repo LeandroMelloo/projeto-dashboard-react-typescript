@@ -1,5 +1,4 @@
-# Projeto Dashboard React Typescript
-Desenvolvendo um Dashboard com Typescript e ReactJS
+### Projeto Minha Carteira
 
 <div align="center" >
   <img src="./docs/assets/logo.png" width="200">
