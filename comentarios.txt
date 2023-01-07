@@ -1,7 +1,10 @@
-O Typescript trabalha com inferência de dados, ele identifica quando definimos um valor para varíavel, 
-não é permitido inserir um valor diferente do tipo que foi atribuido inicialmente.
+O Typescript trabalha com inferência de dados, ele identifica o tipo da varíavel, 
+e não permiti inserir um novo diferente do tipo que foi atribuido inicialmente.
 
-Interface no Typescript é definido com um contrato
+Interface no Typescript é definido com um contrato.
 
 Extensões:
   - dracula, auto-rename-tag, color-highlight, material-icon-theme, svg-preview
+
+Comando para criar um React App:
+  - npx create-react-app minha-carteira --template typescript
