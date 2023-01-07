@@ -1,10 +1,24 @@
+Typescrt:
 O Typescript trabalha com inferência de dados, ele identifica o tipo da varíavel, 
 e não permiti inserir um novo diferente do tipo que foi atribuido inicialmente.
 
 Interface no Typescript é definido com um contrato.
-
-Extensões:
+####################################################################################################
+Extensões VSCode:
   - dracula, auto-rename-tag, color-highlight, material-icon-theme, svg-preview
-
+####################################################################################################
 Comando para criar um React App:
   - npx create-react-app minha-carteira --template typescript
+####################################################################################################
+DOM ou Document Object Model:
+A sigla DOM significa Document Object Model, que em português significa Modelo de Documento por 
+Objetos. Trata-se de uma interface de programação que os navegadores utilizam para representar 
+páginas na web.
+
+O DOM oferece um modelo de representação e interação do documento HTML ou XML. 
+Esse modelo se estrutura em formato de árvore, com vários galhos que indicam diferentes elementos 
+da página. Quando esse modelo é alterado através da linguagem de script, se altera a página da web 
+— seja sua estrutura, estilo ou elementos.
+####################################################################################################
+Dependências do projeto:
+  - yarn add styled-components
