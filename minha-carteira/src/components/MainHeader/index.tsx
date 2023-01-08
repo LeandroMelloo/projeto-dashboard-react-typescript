@@ -16,7 +16,7 @@ const MainHeader: React.FC = () => {
 
     const emoji = useMemo(() => {
         // Math.floor => arredonda os valores com uma casa decimal 8.9999 fica 9
-        // Math.random() * 10 => gera valores aleatorios de 0 a 10
+        // Math.random() * 10 => gera valores aleatorios de 0 a emojis.length
         const indice = Math.floor(Math.random() * emojis.length); 
         return emojis[indice];
     }, []);
