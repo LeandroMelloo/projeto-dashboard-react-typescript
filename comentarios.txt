@@ -23,3 +23,4 @@ da página. Quando esse modelo é alterado através da linguagem de script, se a
 Dependências do projeto:
   - yarn add styled-components
   - yarn add @types/styled-components -D
+  - yarn add react-switch -> biblioteca para criar o toogle
